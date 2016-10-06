@@ -8,5 +8,5 @@ class_name: AcceptanceTester
 modules:
     enabled:
         - PhpBrowser:
-            url: http://q.new.motor1.com
+            url: http://motor1.com
         - \Helper\Acceptance
